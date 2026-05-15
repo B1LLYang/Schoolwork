@@ -10,5 +10,5 @@
 ## 运行测试
 
 ```bash
-dotnet test /home/runner/work/Schoolwork/Schoolwork/tests/Schoolwork.Calculators.Tests/Schoolwork.Calculators.Tests.csproj
+dotnet test tests/Schoolwork.Calculators.Tests/Schoolwork.Calculators.Tests.csproj
 ```
